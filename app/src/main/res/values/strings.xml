@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">spinner_with_frag_practice</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment1">Fragment 1</string>
+    <string name="hello_blank_fragment2">Fragment 2</string>
+    <string name="hello_blank_fragment3">Fragment 3</string>
+
+    <string-array name="spinner_array">
+        <item > Batman </item>
+        <item > Ironman </item>
+        <item > Spiderman </item>
+
+    </string-array>
+</resources>
